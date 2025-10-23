@@ -1,0 +1,13 @@
+class user_db:
+    """Stub user_db class with placeholder methods."""
+
+    def __init__(self):
+        pass
+
+    def create_new(self, uuid, serial_number, mac_addr):
+        """Placeholder for creating a new user."""
+        pass
+
+    def get_uuid(self, *args, **kwargs):
+        """Placeholder for retrieving a user's UUID."""
+        pass
